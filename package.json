@@ -1,0 +1,28 @@
+{
+  "name": "grunt-copy-node-modules",
+  "version": "0.0.3",
+  "description": "Fast deploy Node.js modules from local source folder to distination folder by grunt.",
+  "author": {
+    "name": "FingerArt",
+    "email": "fingerart.me@gmail.com",
+    "url": "http://fingerart.me"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fingerart/grunt-copy-node-modules.git"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "scripts": {
+    "test": "grunt"
+  },
+  "dependencies": {
+    "copy-node-modules": "^1.0.4"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-clean": "^1.1.0"
+  }
+}
