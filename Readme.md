@@ -1,6 +1,6 @@
 # grunt-copy-node-modules
 
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/grunt-copy-node-modules)
+[![npm](https://img.shields.io/npm/v/grunt-copy-node-modules.svg)](https://www.npmjs.com/package/grunt-copy-node-modules)
 
 Fast deploy Node.js modules to distination folder by grunt.
 Copy all modules listed in 'dependencies' or 'devDependencies' field of package.json to destination folder.
