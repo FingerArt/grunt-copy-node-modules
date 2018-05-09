@@ -14,6 +14,7 @@ module.exports = function (grunt) {
 
     grunt.loadTasks('tasks');
     grunt.loadNpmTasks('grunt-contrib-clean');
+    // grunt.loadNpmTasks('grunt-copy-node-modules');
 
     grunt.registerTask('default', ['clean', 'copy-node-modules']);
 }
